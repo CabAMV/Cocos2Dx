@@ -1,0 +1,1 @@
+Code and resources for a cocos2D example code, not included due to its size.
